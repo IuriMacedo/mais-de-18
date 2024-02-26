@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+h1{
+    text-align: center;
+    color: lightblue;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+    color: lightblue;
+}
+
+input{
+    margin-left: 560px;
+}
+
+.formulario{
+    margin-top: 250px;
+    
+}
+
+body{
+background-image: url(https://cdn.pixabay.com/photo/2014/08/26/15/35/beer-428121_640.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+}
